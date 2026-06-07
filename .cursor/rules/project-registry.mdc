@@ -1,0 +1,10 @@
+---
+description: Project map and hosting context
+alwaysApply: true
+---
+
+# Project context
+
+- Full map: `~/operatingmanual/PROJECTS.md`
+- This repo: **Hardkor Diet** landing page on Vercel → hardkor-diet-website.vercel.app
+- App PWA (separate repo): `~/code/hardkor-pwa` → GitHub Pages
