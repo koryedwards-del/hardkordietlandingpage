@@ -6,7 +6,8 @@ alwaysApply: true
 # Project context
 
 - Full map: `~/operatingmanual/PROJECTS.md`
-- This repo: **Hardkor Diet** landing on Render → thehardkordiet.com
-- App PWA (separate repo): `~/code/hardkor-pwa` → GitHub Pages
+- This repo: **Hardkor Diet** landing only on Render → thehardkordiet.com
+- **Completely separate from Burn & Build** — no app repo, no link to `pwa-burn-and-build`
+- Do not cross-reference or wire to Burn & Build unless Kory asks
 
 Push to `main` deploys live on Render.
