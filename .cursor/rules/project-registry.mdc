@@ -6,5 +6,7 @@ alwaysApply: true
 # Project context
 
 - Full map: `~/operatingmanual/PROJECTS.md`
-- This repo: **Hardkor Diet** landing page on Vercel → hardkor-diet-website.vercel.app
+- This repo: **Hardkor Diet** landing on Render → thehardkordiet.com
 - App PWA (separate repo): `~/code/hardkor-pwa` → GitHub Pages
+
+Push to `main` deploys live on Render.
